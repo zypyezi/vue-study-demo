@@ -10,5 +10,17 @@ export const studyList = [
         id:'data',
         component: 'Data',
         path: '/data'
+    },
+    {
+        name: 'eventbus',
+        id:'eventbus',
+        component: 'EventBus',
+        path: '/eventbus'
+    },
+    {
+        name: 'axios',
+        id:'axios',
+        component: 'Axios',
+        path: '/axios'
     }
 ]
